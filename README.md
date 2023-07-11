@@ -1,4 +1,4 @@
-# square-wave-generation-embedded-c
+# Square-Wave-Generation-Embedded-C
 
 # About
 
